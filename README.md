@@ -1,13 +1,13 @@
 # mqtt-video-trigger
 Object-oriented Processing sketch for low-latency triggering of videos via MQTT.
 
-###Installation
+### Installation
 1. Clone the repository.
 ```sh
 $ git clone https://github.com/samhorne/mqtt-video-trigger.git
 ```
 
-###Setup
+### Setup
 1. [Install Mosquito.](https://mosquitto.org/download/)
 2. Install the MQTT library in the Processing Contributions Manager.
 3. Place video files in the same folder as the processing sketch.
