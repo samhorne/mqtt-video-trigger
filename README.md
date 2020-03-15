@@ -13,3 +13,5 @@ $ git clone https://github.com/samhorne/mqtt-video-trigger.git
 3. Place video files in the same folder as the processing sketch.
 4. Change the IP address in line 45 to match your MQTT broker.
 5. The sketch can be tested using a tool such as [MQTTool](https://apps.apple.com/us/app/mqttool/id1085976398).
+
+Like this project? Check out my other projects [here](https://samhorne.github.io)!
